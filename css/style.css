@@ -1,0 +1,312 @@
+@font-face {
+    font-family: Pacifico;
+    src: url(../fonts/Pacifico/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2);
+}
+@font-face {
+    font-family: Raleway;
+    src: url(../fonts/Raleway/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2);
+}
+body{
+	font-family: Raleway;
+	font-size: 15px;
+	overflow-x: hidden;
+}                              
+#header{
+	text-align: center;
+}                                                                                
+p{
+	color: #848484;
+}
+.header{ 
+	background-image: url(../img/large-banner-image.png); 
+	text-align: center;
+	height: 7in;
+}
+.header h1{
+	padding-top: 112px;
+	font-family: Pacifico;
+	font-size: 4em;
+	font-weight: lighter;
+}
+#header-p{
+	color: black;
+}
+.header p{
+	padding-top: 60px;
+	font-size: 2em;
+}
+#focus{
+	width: 50px;
+}
+#arrow{
+	padding-top: 55px;
+}
+.feature{
+	font-weight: bold;
+}
+.feature-text{
+	position: block;
+}
+#iphone{
+	position: absolute;
+	top: 387px;
+	left: 35%;
+}
+#wd1{
+	position: absolute;
+	top: 6.05in;
+	left: 8.38in;
+}
+#wd2{
+	position: absolute;
+	top: 6.95in;
+	left: 7.05in;
+}
+#wd3{
+	position: absolute;
+	top: 9.05in;
+	left: 7.05in;
+}
+#bd1{
+	position: absolute;
+	top: 8.08in;
+	left: 8.45in;
+}
+#cur{
+	position: absolute;
+	top: 8.27in;
+	left: 8.57in;
+}
+#agl{
+	position: absolute;
+	top: 8.27in;
+	left: 8.6in;
+}
+
+#ft1{
+	position: absolute;
+	top: 748px;
+	left: 985px;
+}
+#ft1 h2{
+	font-size: 23px;
+}
+
+#ft1 p{
+	padding-top: 6px;
+	font-size: 16px;
+	line-height: 150%;
+}
+#ft2{
+	position: absolute;
+	top: 893px;
+	left: 985px;
+}
+#ft2 h2{
+	font-size: 23px;
+}
+#ft2 p{
+	padding-top: 6px;
+	font-size: 16px;
+	line-height: 150%;
+}
+#ft3{
+	position: absolute;
+	top:747px;
+	left: 250px;
+}
+#ft3 h2{
+	font-size: 23px;
+}
+#ft3 p{
+	padding-top: 6px;
+	font-size: 16px;
+	line-height: 150%;
+}
+#ft4{
+	position: absolute;
+	top: 892px;
+	left: 250px;
+}
+#ft4 h2{
+	font-size: 23px;
+}
+#ft4 p{
+	padding-top: 6px;
+	font-size: 16px;
+	line-height: 150%;
+}
+.get-the-app{
+	background-color: #e3e3e3;
+	position: absolute;
+	width: 100%;
+	top: 1175px;
+	height: 410px;
+}
+.get-in-touch{
+	position: absolute;
+	top: 1700px;
+}
+.app-left-text{
+	position: absolute;
+	top: 50px;
+	left: 170px;
+}
+.app-left-icon{
+	position: absolute;
+	top: 250px;
+	left: 200px;	
+}
+#app-h{
+	font-size: 23px;
+	font-weight: bold;
+}
+#app-p{
+	padding-top: 10px;
+	font-size: 15.5px;
+	line-height: 155%;
+}
+#vd{
+	position: absolute;
+	top: 55px;
+	left: 847px;		
+	width: 500px;
+}
+#pla{
+	position: absolute;
+	top: 290px;
+	left: 865px;
+	width: 78px;
+}
+#bar{
+	position: absolute;
+	top: 290px;
+	left: 955px;
+	width: 373px;
+}
+
+#app-icon1{
+	position: absolute;
+	top:-33px;
+	left: -30px;
+}
+#app-icon2{
+	position: absolute;
+	top:-33px;
+	left: 58px;
+}
+#app-icon3{
+	position: absolute;
+	top:-33px;
+	left: 143px;
+}
+#cur-app{
+	position: absolute;
+	top: 10px;
+	left: 180px;
+}
+.get-in-touch{
+	position: absolute;
+	top: 1650px;
+	width: 1900px;
+}
+.top-text h2{
+	position: absolute;
+	top: -10px;
+	left: 350px;
+}
+
+#get-h{
+	font-size: 25px;
+	font-weight: 500;
+}
+.bold{
+	font-weight: bold;
+}
+#get-p{
+	position: absolute;
+	top: 25px;
+	left: 680px;
+	color: #000;
+	padding-top: 10px;
+	font-size: 15.5px;
+	line-height: 155%;
+}
+#cur2{
+	position: absolute;
+	top: 297px;
+	left: 740px;
+}
+#wall{
+	position: absolute;
+	top: 120px;
+}
+#wall img{
+	width: 95%;
+}
+#active-person{
+	position: absolute;
+	top: 196px;
+	left: 869px;
+}
+#active-person img{
+	width: 95%;
+}
+
+.social-media-text h2{
+	position: absolute;
+	left: 643px;
+	top:490px;
+	font-size: 23px;
+	font-weight: bold;
+}
+.social-media-text p{
+	position: absolute;
+	left: 535px;
+	top:535px;
+	padding-top: -30px;
+	font-size: 17px;
+	line-height: 155%;
+}
+.social-media-icons{
+	position: absolute;
+	left: 635px;
+	top: 590px;
+}
+.social-media-icons img{
+	padding-right: 5px;
+}
+#cur2{
+	position: absolute;
+	width: 17px;
+	left: 810px;
+	top: 55px;
+}
+#cur3{
+	position: absolute;
+	left: 100px;
+	top: 20px;
+}
+.footer{
+	width: 100%;
+	height: 110px;
+	background-color: #e3e3e3;
+	position: absolute;
+	top: 2350px;
+}
+a{
+	text-decoration: none;
+	color: #848484;
+}
+a:hover{
+	text-decoration: none;	
+}
+#footer-text{
+	position: absolute;
+	top: 53px;
+	font-size: 14px;
+	left: 520px;
+}
+#footer-text a{
+	padding-right: 21px;
+}
